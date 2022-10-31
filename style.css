@@ -134,7 +134,7 @@ img:hover {
   }
 }
 
-@media screen and  (max-width: 390px) {
+@media screen and  (max-width: 643px) {
   .container .heading {
     width: 100%;
   }
