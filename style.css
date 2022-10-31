@@ -134,7 +134,7 @@ img:hover {
   }
 }
 
-@media only screen and (max-width: 643px) {
+@media only screen and (max-width: 390px) {
   .container .heading {
     width: 100%;
   }
