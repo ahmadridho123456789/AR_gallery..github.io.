@@ -140,10 +140,12 @@ img:hover {
   }
   .container .heading h4 {
     font-size: 24px;
+    
   }
 
   .container .heading p {
     font-size: 12px;
+    width: 80%;
   }
 
   .quete {
