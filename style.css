@@ -124,7 +124,7 @@ img:hover {
 }
 /* history section */
 
-@media  (max-width: 769px) {
+@media screen and (max-width: 769px) {
   .container .box {
     flex-direction: column;
   }
@@ -134,7 +134,7 @@ img:hover {
   }
 }
 
-@media  (max-width: 390px) {
+@media screen and  (max-width: 390px) {
   .container .heading {
     width: 100%;
   }
